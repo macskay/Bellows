@@ -4,12 +4,8 @@
   "description": "A fork of temportalflux's MusicAssist - a streaming helper for Foundry VTT. Every forge needs bellows!",
   "authors": [
     {
-      "name": "casualchameleon",
-      "url": "https://github.com/casualchameleon"
-    },
-    {
-      "name": "temportalflux",
-      "url": "https://github.com/temportalflux"
+      "name": "macskay",
+      "url": "https://github.com/macskay"
     }
   ],
   "version": "0.3.2",
@@ -24,10 +20,10 @@
   "templates": [
     "./templates/import-youtube-playlist.html"
   ],
-  "url": "https://github.com/casualchameleon/Bellows",
-  "manifest": "https://raw.githubusercontent.com/casualchameleon/Bellows/master/module.json",
-  "download": "https://github.com/casualchameleon/Bellows/releases/download/0.3.2/bellows_0.3.2.zip",
-  "license": "https://github.com/casualchameleon/Bellows/blob/master/LICENSE",
+  "url": "https://github.com/macskay/Bellows",
+  "manifest": "https://raw.githubusercontent.com/macskay/Bellows/master/module.json",
+  "download": "https://github.com/macskay/Bellows/releases/download/0.3.2/bellows_0.3.2.zip",
+  "license": "https://github.com/macskay/Bellows/blob/master/LICENSE",
   "socket": true,
   "debugBuildDirectory": "D:\\Documents\\FoundryVTT\\Data\\modules",
   "packageItems": [
